@@ -11,7 +11,7 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle: Learning is a process
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
