@@ -17,10 +17,9 @@ image:
   preview_only: no
 projects: []
 ---
-# Linguistic trivia
 
 One of the things I found most challenging about multisyllabic words in English is that you don't really pronounce most of the vowels except for the vowel in the stressed syllable; the rest are just unstressed central vocoids or schwas. 
 
-By contrast, in Spanish, we distinctively articulate each vowel regardless of its stress status ... or so I thought.  Martinez Celdrán and Fernárndez Planas (2007:88) report that "all vowels are somewhat centralized when unstressed, with respect to the more peripheral position in the vowel space they occupy when stressed" . 
+By contrast, in Spanish, we distinctively articulate each vowel regardless of its stress status ... or so I thought.  Martinez Celdrán and Fernárndez Planas (2007:88) report that "all vowels are somewhat centralized when unstressed, with respect to the more peripheral position in the vowel space they occupy when stressed" ... sounds very schwa-y to me ... 
 
 Does that mean that in 200 years we would be like English? 😱😱😱
