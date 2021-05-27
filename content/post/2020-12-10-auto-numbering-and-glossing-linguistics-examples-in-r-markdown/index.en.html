@@ -1,0 +1,52 @@
+---
+title: "Auto-numbering and glossing linguistics examples in R Markdown - 1"
+author: Erwin Lares
+date: '2020-12-10'
+slug: auto-numbering-and-glossing-linguistics-examples-in-r-markdown
+categories:
+  - Writing
+tags:
+  - R Markdown
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-26T16:49:37-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+<script src="{{< blogdown/postref >}}index.en_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Part 1 — linguistics examples and glosses.</p>
+<p>I’m writing my dissertation right now. I feel terrible that it took me longer than a year to get started. I loved the topic, I picked it myself. I knew what I wanted to say, but putting fingertips to keyboard was very difficult for me. There were days where I just would stare at my screen for hours, unable to start. So to cope, I started doing what I have always done when I am stressed out, I started to made fun of what’s causing me stress.</p>
+<p>So this turns into casually writing about my research and how I am dealing with the challenges that come along with completing my dissertation. I realized that some of these challenges and my solutions might come handy to other people, so I decided to share them here. I want to show you how to include linguistics examples that self-numerate, how to gloss them, and how to cross-reference them from within your document.</p>
+<p>The first thing you want to know about linguistics is that we study the human ability to produce and understand Language. So, it really isn’t about how many languages one speaks. That being said, most linguists know more than one language. As it happens, differences among languages tells us a lot about our study subject: capital L Language.</p>
+<p>The first thing you’ll notice about linguistic articles is that we number our sentences. Sentences are the objects of our inquire, so we want a shorthand way to reference them. In a paper, you’ll see prose that reads something like this: “See (1) for an example of a grammatical sentence and (2) for an ungrammatical one”. Somewhere in the text, you’ll find what (1) and (2) were. (it’s not really a secret; they are sentences).</p>
+<pre><code>(1) Firuláis is a great name for a dog in Spanish.
+(2) * Fido is a name great for a dog in English.</code></pre>
+<p>First thing you’ll notice about linguistic examples is that some come starred and some don’t. Stars means the sentence is ungrammatical. Perhaps you noticed the adjective position. All I meant to say with the star is that by the rules of the language, the choice of placing the adjective after the noun is off.</p>
+<p>Oftentimes, we provide examples that are not in English. My dissertation is full of Spanish examples. So, I am expected to gloss my examples. My dissertation is about idiomatic phrases, phrases like kick the bucket when you don’t mean that someone’s toes made contact with a bucket rather forcefully, but rather that someone died.</p>
+<p>So in my writing, my examples look like (3) and (4) below. (3) is the literal interpretation and (4) is the idiomatic interpretation. Just like in English, Spanish have some colorful expressions about dying. Who knew … when someone stretches their legs in Spanish, they die. That’s why I don’t do yoga.</p>
+<pre><code>(3) Teresa estiró la pata.
+(4) Teresa estiró la pata.</code></pre>
+<p>First thing you’ll notice about my examples is that they look identical. That can be potentially confusing. Most linguistics papers are written in English even if the topic is a different language. English is the de facto lingua franca in linguistics. So, what if someone who doesn’t know Spanish wants to read about my topic? That’s where glosses come handy. Sentences (3) and (4) with their respective glosses look like this:</p>
+<pre><code>(3) Teresa estiró       la  pata
+    Teresa stretch-PAST the leg-SLANG
+    &#39;Teresa stretched her leg&#39;
+(4) Teresa estiró       la  pata
+    Teresa stretch-PAST the leg-SLANG
+    &#39;Teresa died&#39;</code></pre>
+<p>First thing you’ll notice about glosses is that they are beefier than the plain examples. The first line is the example itself in the target language. The second line is the gloss proper. It is basically a word-by-word translation, but it also contains relevant linguistic details. For instance, you can see that “estiró” means stretch but in the past. The last line is a general translation of what the sentence means.</p>
+<p>All of this is to say that numbering and glossing can be a giant pain. Imagine that after you are almost done and 200 examples into your manuscript you need to insert a new example right before sentence number 50. Maybe after corrections you need to delete a few examples sprinkled throughout your 200 examples. Renumbering that would be a nightmare, wouldn’t it?</p>
+<p>Did you notice how each word in the gloss is nicely aligned with the corresponding word in the target sentence? I did that by hand. It wasn’t difficult because the examples are in monotype font. But no self-respecting graduate school is going to let you write your dissertation in Courier Monotype font, so going space-by-space trying to eyeball and gauge where to place each word so they align oh-so-perfectly is going to be a monumental pain.</p>
+<p>Did I mention there are hundreds of examples in a dissertation?</p>
+<p>So the solution I found for this pickle is to write my dissertation directly in R Markdown. I know what you’re thinking … but, Erwin, why don’t you just use Word? You can do all those things in Word! Can you though? Have you tried copying and pasting and finding that all your formatting decided to go MIA?</p>
+<p>I am already doing all my data analysis and number crunching in R. If I want to write it in Word, I would have to do a lot of copying and pasting. And if something changes in the data or I have to make a change in my analysis, I would have to re-copy and and re-paste everything again.</p>
+<p>If I stay in R, any changes in the data or in the statistical analysis are already in R. Using R Markdown lets me write my prose and weave the results directly into the text. Changes get reflected automatically in what I have already written. All I need to do is recompile my document.</p>
+<p>What about the numbering and the glossing? That is also taken care of if I stay in R. I can use LaTeX and have the computer worry about numbering the examples correctly. If I have to delete or insert new examples, the computer can keep track of the order of the sentences. And the glosses? The computer can also perfectly align each word with its translation.
+In Part 2, I’ll show you how to write your examples and your glosses using R Markdown so there is one less thing for you to worry. Or if you are like me, you can reallocate your worries to something else.</p>

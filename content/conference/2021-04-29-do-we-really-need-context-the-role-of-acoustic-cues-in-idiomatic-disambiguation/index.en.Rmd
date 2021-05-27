@@ -1,0 +1,36 @@
+---
+title: Do we really need context? 
+author: Erwin Lares
+date: '2021-04-29'
+slug: do-we-really-need-context-the-role-of-acoustic-cues-in-idiomatic-disambiguation
+categories:
+  - Conferences
+tags:
+  - LSRL
+  - Linguistics
+  - Phonetics 
+  - Perception
+subtitle: 'The Role of acoustic cues in idiomatic disambiguation'
+summary: 'The Role of acoustic cues in idiomatic disambiguation'
+authors: []
+lastmod: '2021-05-26T22:27:48-05:00'
+featured: no
+image:
+  caption: 'banner of LSRL 51 Urbana-Champaign, IL '
+  focal_point: ''
+  preview_only: no
+projects: []
+
+url_code: ''
+url_dataset: ''
+url_pdf: https://drive.google.com/file/d/1P16HW2VMoSI3rCE3m4yQP3HsrDX2Tbex/view?usp=sharing
+
+---
+# Talk at LSRL 51 
+
+In this talk I presented the results of a perception experiment I conducted where I used as input four different minimal pairs of literal/idiomatic sentences produced by 12 native speakers for a grand total of 48 minimal pairs. 
+
+These four sets were minimally different: members of each pair were identical to one another; the only distinction was the intended meaning the speaker had in mind at the time of production. I presented these minimal pairs to around 500 participants. The goal the experiment was to find out if participants are capable of reliably picking out the intended meaning of a sentence when said sentence is heard in isolation.
+
+The overall finding is that a subset of the participants were capable of estimating the intent of the speakers far beyond what chance would allow. The combined results from this experiment constitute evidence that some speakers of Spanish can pick up on prosodic strategies that signal the intended meaning of sentences that containing idiomatic expressions.
+

@@ -1,0 +1,29 @@
+---
+title: 'VOT development of L2 Learners '
+author: Erwin Lares
+date: '2021-01-01'
+slug: vot-development-of-l2-learners
+categories:
+  - Linguistics
+  - Collaboration
+tags:
+  - Data Science
+  - Linguistics
+  - Phonetics
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-27T11:06:45-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+# VOT Development of _La Residencia_ students 
+
+I am collaborating with Rajiv Rao to analyze and visualize the data produced by a longitudinal project studying the pronunciation development of students living in a domestic
+immersion program called _La Residencia_.
+
+I am in charge of carrying out the quantitative analysis on the data gathered by this project. The results will be published in a peer-reviewed journal.![VOT diagram](images/featured.jpeg)
