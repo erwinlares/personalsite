@@ -4,7 +4,7 @@ author: Erwin Lares
 date: '2019-08-13'
 slug: existing-in-the-morning
 categories:
-  - Linguistics
+  - Linguist vs Language
 tags:
   - Linguistics Trivia
 subtitle: ''
