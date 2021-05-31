@@ -23,6 +23,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Cyber-research Infrastructure Project Assistant
+    company: UW-Madison Office of Research Cyberinfrastructure
+    company_url: 'https://researchci.it.wisc.edu/about-research-cyberinfrastructure/'
+    company_logo: ''
+    location: Madison, WI
+    date_start: '2021-06-03'
+    date_end: ''
+    description: |2-
+        * conducting analyses of survey data (both qualitative and quantitative) and usage metrics, including maintenance of existing workflows.
+        * producing visualizations and reports from data.
+        * gathering and summarizing user requirements for new systems
+        * providing user support such as adding new users to services
+        * developing and updating online support and communications materials for Research Cyberinfrastructure services
   - title: Lecturer
     company: Department of Spanish and Portuguese @UW-Madison
     company_url: 'https://spanport.wisc.edu/'

@@ -40,7 +40,10 @@ title: Erwin Lares
 
 - Ph.D. candidate in linguistics working with idioms and their quirkiness
 - Language Teacher
-- Data Science and Quantitative Analysis Enthusiast    
-- Lightweight course designer and content creator
+- Data Science Enthusiast   
+- Course Designer and Content Creator
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/erwinlares_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+[//]: <> (I can replace this with a github address like https://github.com/erwinlares/cv/blob/main/erwinlarescv_awesome.pdf which works, but it opens it first on github then there's a download option)
