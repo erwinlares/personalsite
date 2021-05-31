@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of Wisconsin-Madison
   url: https://www.wisc.edu/
-role: Dissertator with the Department of Spanish and Portuguese
+role: "Dissertator with the Department of Spanish and Portuguese & Project Assistant with the Office of Research Cyberinfrastructure"
 social:
 - icon: envelope
   icon_pack: fas
