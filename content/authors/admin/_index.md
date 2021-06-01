@@ -43,7 +43,7 @@ title: Erwin Lares
 - Data Science Enthusiast   
 - Course Designer and Content Creator
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/erwinlares_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/erwinlares/cv/raw/main/erwinlarescv_awesome.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 
 [//]: <> (I can replace this with a github address like https://github.com/erwinlares/cv/blob/main/erwinlarescv_awesome.pdf which works, but it opens it first on github then there's a download option)
